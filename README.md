@@ -183,7 +183,7 @@ Tables created in Supabase:
 ## 🤖 AI Usage Notes
 
 **How I Used AI**:
-- GitHub Copilot for code generation and syntax suggestions
+- Gemini and Claude Code for debugging and syntax suggestions
 - Used AI to generate boilerplate (form components, modal structure)
 - AI helped with Supabase RLS policy syntax
 - Used AI for TypeScript type definitions and interfaces
